@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-08T15:55:49.860Z",
+  "repositories": {
+    "sonic-route": {
+      "html_url": "https://github.com/maxsonferovante/sonic-route",
+      "description": "A native macOS menu bar app for per-app audio volume, mute, and output routing.",
+      "language": "Swift",
+      "stargazers_count": 1,
+      "updated_at": "2026-10-29T11:38:48Z"
+    },
+    "episodic-app-web": {
+      "html_url": "https://github.com/maxsonferovante/episodic-app-web",
+      "description": "Episodic — TV series tracker web app (Next.js 16 + Chakra UI v3, Geist design)",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "updated_at": "2026-11-07T03:18:21Z"
+    },
+    "episodic-app-backend": {
+      "html_url": "https://github.com/maxsonferovante/episodic-app-backend",
+      "description": "Episodic — serverless API for a TV series tracker (Rust, AWS Lambda, DynamoDB, TMDB)",
+      "language": "Rust",
+      "stargazers_count": 0,
+      "updated_at": "2026-09-20T18:54:22Z"
+    },
+    "episodic-app-infra-cloud": {
+      "html_url": "https://github.com/maxsonferovante/episodic-app-infra-cloud",
+      "description": "Episodic — AWS infrastructure (Terraform: API Gateway, Lambda, DynamoDB, EventBridge)",
+      "language": "HCL",
+      "stargazers_count": 0,
+      "updated_at": "2026-09-20T18:54:33Z"
+    },
+    "alpaca-extfs-for-mac": {
+      "html_url": "https://github.com/maxsonferovante/alpaca-extfs-for-mac",
+      "description": "A high-performance user-space Ext4 filesystem driver for macOS with full Read & Write support natively integrated into Finder, built with Rust, macFUSE, and Linux's official libext2fs (e2fsprogs 1.47.4).",
+      "language": "Rust",
+      "stargazers_count": 0,
+      "updated_at": "2026-08-11T02:06:52Z"
+    },
+    "SaabAudioMixingConsoleStreaming": {
+      "html_url": "https://github.com/maxsonferovante/SaabAudioMixingConsoleStreaming",
+      "description": "Ultra-low-latency distributed audio mixing console in Rust. Streams macOS system audio via CoreAudio BlackHole HAL and UDP to Android 12+ (Google Oboe/AAudio P2 3.5mm jack) with tactile touch faders and ITU-R BS.775 surround downmixing.",
+      "language": "Rust",
+      "stargazers_count": 0,
+      "updated_at": "2026-08-22T22:08:09Z"
+    },
+    "dota-collection-tool": {
+      "html_url": "https://github.com/maxsonferovante/dota-collection-tool",
+      "description": "Local Dota 2 game-state collector: HTTP sink + manager CLI over SQLite",
+      "language": "Rust",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-07T00:51:42Z"
+    },
+    "memory-for-agents-llm": {
+      "html_url": "https://github.com/maxsonferovante/memory-for-agents-llm",
+      "description": "This repository is the reference for a coding-agent memory system that works across sessions, across repos, and across agent runtimes. It keeps transient conversation small and turns reusable knowledge into source-backed, versioned Markdown. Claude Code and Codex are both first-class clients of the same canonical memory, ingestion hooks, and MCP",
+      "language": "Python",
+      "stargazers_count": 0,
+      "updated_at": "2026-06-18T07:15:27Z"
+    }
+  }
+}
